@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="icon" th:href="@{/img/logo-de-ceat.webp}">
+    <!--Bootrstrap-->
+    <link th:href="@{/css/bootstrap.min.css}" rel="stylesheet">
+    <script th:src="@{/js/bootstrap.min.js}"></script>
+    <!--Tu icono-->
+    <link rel="icon" th:href="@{/img/logo-de-ceat.webp}">
+</head>
+<body>
+
+
+<!--Con el atributo de thymeleaf th:fragment="header" me permitirá llamar este archivo donde sea necesario.-->
+<nav class="navbar bg-body-tertiary" th:fragment="header">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img th:src="@{/img/logo-de-ceat.webp}" alt="Logo" width="200" class="d-inline-block align-text-top">
+            <div>
+            Sistema de Recursos Humanos
+            </div>
+        </a>
+    </div>
+</nav>
+
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AirFly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AnimalesInterfaces" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArrayList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bombillas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bucles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cadenas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ClaseAbstracta" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Colecciones" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ColeccionesLubro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ColeccionesRepaso" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Comandas_E4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Condicionales" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CuentaCorrientePSI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Electrodomesticos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EmpresaX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EnumVehiculos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Enumerados" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Examen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FormaGeometrica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Funciones" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HerenciaPSI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HorasObjects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HotelPSI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InterfazSeleccion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LaNomina" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MF0964_3 - EVALUACION_PRACTICA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MaquinaDeRefrescos_MF0964_ UF1288_E6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MaquinaExpendedora" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MascotasPSI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Multimedia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NominaEmpleados" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Operadores" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/POO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RadioFM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Revision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SocioInterfaz2API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SocioInterfazAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TablasPSI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hola-mundo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/primerSpringBoot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simulacroExamen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simulacroExamen2" vcs="Git" />
+  </component>
+</project>

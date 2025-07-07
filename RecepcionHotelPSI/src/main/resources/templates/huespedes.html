@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Gestión de Huéspedes</title>
+    <script>
+        async function cargarHusepedes(){
+            const response = await fetch('api/huespedes');
+            const huespedes = await response.json();
+            const tbody = document.getElementById('lista-huespedes');
+            tbody.innerHTML = '';
+
+            huespedes.forEach(huesped => {
+                const tr = document.createElement('tr');
+                tr.innerHTML= `
+                <td>${huesped.id}</td>
+                <td>${huesped.name}</td>
+                <td>${huesped.apellido}</td>
+                <td>${huesped.documentoIdentidad}</td>
+                <td>${huesped.telefono}</td>
+                <td><button onclick="eliminarHuesped(${huesped.id})">Eliminar/td>
+            `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        async function agregarHuesped(event}{
+
+        })
+    </script>
+</head>
+<body>
+
+</body>
+</html>
